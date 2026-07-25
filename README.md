@@ -8,7 +8,7 @@ Software engineer building web applications end to end - architecture, frontend,
 
 Currently building [Gigs Together](https://gigstogether.com), a live-music platform for discovering concerts and meeting people with similar music taste - designed, built and operated solo, live in production: [frontend](https://github.com/gigstogether/gigs-together-front) · [backend](https://github.com/gigstogether/gigs-together-api).
 
-I care about clear boundaries, predictable data flows and maintainable solutions rather than treating frontend and backend as separate worlds.
+I look at architecture, data and user experience as parts of the same system, rather than treating frontend and backend as separate worlds.
 
 - Website: [thearina.github.io](https://thearina.github.io/)
 - Email: arina.marten@gmail.com
