@@ -10,7 +10,7 @@ Currently building [Gigs Together](https://gigstogether.com), a live-music platf
 
 I look at architecture, data and user experience as parts of the same system, rather than treating frontend and backend as separate worlds.
 
-- Website: [thearina.github.io](https://thearina.github.io/)
+- Website: [thearina.github.io](https://thearina.github.io?utm_source=github&utm_medium=profile&utm_campaign=thearina)
 - Email: arina.marten@gmail.com
 - Barcelona · open to remote / hybrid roles · EU work permit
 
